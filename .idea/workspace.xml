@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8f75edd-f35e-41a2-a9a8-704eeb76f145" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2m6DgW8HEevbTbImuscG0idtB8r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.BD.executor": "Run",
+    "Python.Dictionary.executor": "Run",
+    "Python.File.executor": "Run",
+    "Python.MenuArray.executor": "Run",
+    "Python.Multiples.executor": "Run",
+    "Python.OOP.executor": "Run",
+    "Python.RegExpressions.executor": "Run",
+    "Python.add_client.executor": "Run",
+    "Python.add_policy.executor": "Run",
+    "Python.creating_db.executor": "Run",
+    "Python.fun1.executor": "Run",
+    "Python.fun2.executor": "Run",
+    "Python.fun3.executor": "Run",
+    "Python.insert in db.executor": "Run",
+    "Python.insurance.executor": "Debug",
+    "Python.json_imp_exp.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.manage.executor": "Run",
+    "Python.selects.executor": "Run",
+    "Python.start_cgi.executor": "Run",
+    "Python.str1.executor": "Run",
+    "Python.str2.executor": "Run",
+    "Python.str3.1.executor": "Run",
+    "Python.str3.2.executor": "Run",
+    "Python.str3.3.executor": "Run",
+    "Python.str3.4.executor": "Run",
+    "Python.str3.executor": "Run",
+    "Python.str4.executor": "Run",
+    "Python.str5.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.views.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/zhura/PycharmProjects/PythonLab"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhura\PycharmProjects\PythonLab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhura\PycharmProjects\PythonLab" />
+      <recent name="C:\Users\zhura\PycharmProjects\PythonLab\cgi-bin" />
+      <recent name="C:\Users\zhura\PycharmProjects\PythonLab\court_case" />
+      <recent name="C:\Users\zhura\PycharmProjects\PythonLab\file" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f75edd-f35e-41a2-a9a8-704eeb76f145" name="Changes" comment="" />
+      <created>1726388243980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726388243980</updated>
+    </task>
+    <servers />
+  </component>
+</project>

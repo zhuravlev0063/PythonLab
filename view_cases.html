@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Cases</title>
+</head>
+<body>
+    <h1>Список дел</h1>
+    <ul>
+        {% for case in cases %}
+        <li>ID: {{ case[0] }}, Номер: {{ case[1] }}, Дата начала: {{ case[2] }}, Статус: {{ case[3] }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Вернуться назад</a>
+</body>
+</html>

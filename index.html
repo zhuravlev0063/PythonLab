@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Court Cases</title>
+</head>
+<body>
+    <h1>Судебные дела</h1>
+    <form method="post" action="/add_case">
+        <h2>Добавить новое дело</h2>
+        <label>Case Number:</label>
+        <input type="text" name="case_number" required><br>
+        <label>Start Date:</label>
+        <input type="date" name="start_date" required><br>
+        <label>Status:</label>
+        <input type="text" name="status" required><br>
+        <button type="submit">Add Case</button>
+    </form>
+
+    <br>
+    <a href="/view_cases">Просмотреть дела</a><br>
+    <a href="/export_json">Экспортировать дела в JSON</a><br>
+    <a href="/import_json">Импортировать дела из JSON</a><br>
+</body>
+</html>
