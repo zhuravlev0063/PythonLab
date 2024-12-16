@@ -1,0 +1,7 @@
+<h1>Тренеры</h1>
+<ul>
+    {% for trainer in trainers %}
+    <li>{{ trainer.name }} - {{ trainer.specialization }} - {{ trainer.phone }}</li>
+    {% endfor %}
+</ul>
+<a href="{% url 'add_trainer' %}">Добавить тренера</a>
